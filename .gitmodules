@@ -1,0 +1,4 @@
+[submodule "vojd11/f"]
+	path = vojd11/f
+	url = git@github.com:vojd11/f.git
+	branch = main
